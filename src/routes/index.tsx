@@ -122,12 +122,9 @@ function App() {
             <header className="text-center space-y-4 sm:space-y-6">
               <div className="flex justify-center">
                 <img 
-                  src="/deepoLogo1.png" 
+                  src="/deepo-vector1.svg" 
                   alt="Deepo Logo - Groot en Kleinhandel Houthalen" 
-                  className="h-20 w-auto object-contain"
-                  width="200"
-                  height="80"
-                  loading="eager"
+                  className="h-20 sm:h-24 md:h-32 w-auto"
                 />
               </div>
               <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-gray-900">

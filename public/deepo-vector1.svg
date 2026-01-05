@@ -1,0 +1,61 @@
+<svg viewBox="21 114.75 333.75 146.25" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" style="max-height: 500px" width="333.75" height="146.25">
+<defs>
+<clipPath id="clip_0">
+<path clip-rule="evenodd" d="M0 0H1562.5V1562.5H0Z" transform="matrix(.24,0,0,.24,0,0)"/>
+</clipPath>
+<clipPath id="clip_1">
+<path clip-rule="evenodd" d="M0 0H1562.5V1562.5H0Z" transform="matrix(.24,0,0,.24,0,0)"/>
+</clipPath>
+<clipPath id="clip_2">
+<path clip-rule="evenodd" d="M0 0H1562.5V1562.5H0Z" transform="matrix(.24,0,0,.24,0,0)"/>
+</clipPath>
+<clipPath id="clip_3">
+<path clip-rule="evenodd" d="M0 0H1098V358H0Z" transform="matrix(.24,0,0,.24,62.879999,138.23999)"/>
+</clipPath>
+<clipPath id="clip_4">
+<path clip-rule="evenodd" d="M0 0H387V378H0Z" transform="matrix(.24,0,0,.24,262.08,116.159999)"/>
+</clipPath>
+<clipPath id="clip_5">
+<path clip-rule="evenodd" d="M0 0H387V379H0Z" transform="matrix(.24,0,0,.24,19.92,168)"/>
+</clipPath>
+<clipPath id="clip_6">
+<path clip-rule="evenodd" d="M0 0H972V61H0Z" transform="matrix(.24,0,0,.24,78,220.79999)"/>
+</clipPath>
+</defs>
+<g>
+<g clip-path="url(#clip_0)">
+<path fill="#ffffff" d="M0 0H500V500H0Z" transform="matrix(.75,0,0,.75,0,0)"/>
+</g>
+<g clip-path="url(#clip_1)">
+<path fill="#ffffff" d="M0 0H500V500H0Z" transform="matrix(.75,0,0,.75,0,0)"/>
+</g>
+<g clip-path="url(#clip_2)">
+<g>
+<g clip-path="url(#clip_3)">
+<text font-weight="bold" font-family="LeagueSpartan" font-size="70.01" transform="matrix(.97504088 0 0 .97504088 41.496377 140.27855)" xml:space="preserve"><tspan x="22.703125 82.06441 131.9757 181.88698 237.39826" y="61">Deepo</tspan></text>
+</g>
+</g>
+<g>
+<g clip-path="url(#clip_4)">
+<path d="M0 5H84.43311" stroke="#ffde59" fill="none" stroke-linejoin="miter" stroke-miterlimit="4" stroke-linecap="butt" stroke-width="10" transform="matrix(-.97504088,0,0,-.97504088,349.99687,128.39176)"/>
+<path d="M0 5H82.46338" stroke="#ffde59" fill="none" stroke-linejoin="miter" stroke-miterlimit="4" stroke-linecap="butt" stroke-width="10" transform="matrix(0,-.97504076,.97504076,0,340.25148,201.96663)"/>
+</g>
+</g>
+<g>
+<g clip-path="url(#clip_5)">
+<path d="M0 5H84.43311" stroke="#ffde59" fill="none" stroke-linejoin="miter" stroke-miterlimit="4" stroke-linecap="butt" stroke-width="10" transform="matrix(.97504088,0,0,.97504088,25.001622,246.5983)"/>
+<path d="M0 5H82.46338" stroke="#ffde59" fill="none" stroke-linejoin="miter" stroke-miterlimit="4" stroke-linecap="butt" stroke-width="10" transform="matrix(0,.97504076,-.97504076,0,34.747034,173.0234)"/>
+</g>
+</g>
+<g>
+<g clip-path="url(#clip_6)">
+<text font-weight="bold" font-family="Quicksand" font-size="12" transform="matrix(.9549956 0 0 .9549956 78.10881 221.03598)" xml:space="preserve" fill="#ffde59"><tspan x="0 17.040055 31.896088 47.088136 58.152147 72.93619 86.54422 101.84427 112.90828 127.69232 138.87635 155.20839 166.39241 179.42444 194.20848 206.9405 222.24056 232.89656" y="12">wholesale &amp; retail</tspan></text>
+</g>
+</g>
+</g>
+<path fill-opacity="0" d="M340.248 181.0584H349.99839V261.46357H340.248Z" transform="matrix(1,0,0,-1,0,383.03999)"/>
+<path fill-opacity="0" d="M267.67265 254.63826H349.99836V264.38868H267.67265Z" transform="matrix(1,0,0,-1,0,383.03999)"/>
+<path fill-opacity="0" d="M25.00162 129.61643H34.75203V210.02158H25.00162Z" transform="matrix(1,0,0,-1,0,383.03999)"/>
+<path fill-opacity="0" d="M25.00162 126.69131H107.32735V136.44171H25.00162Z" transform="matrix(1,0,0,-1,0,383.03999)"/>
+</g>
+</svg>
