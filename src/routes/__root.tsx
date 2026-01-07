@@ -21,6 +21,37 @@ export const Route = createRootRoute({
         rel: 'stylesheet',
         href: appCss,
       },
+      {
+        rel: 'icon',
+        type: 'image/svg+xml',
+        href: '/deepo-vector1.svg',
+      },
+      {
+        rel: 'icon',
+        type: 'image/x-icon',
+        href: '/deepo-vector1.svg',
+      },
+      {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '192x192',
+        href: '/deepo-vector1.svg',
+      },
+      {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '512x512',
+        href: '/deepo-vector1.svg',
+      },
+      {
+        rel: 'apple-touch-icon',
+        sizes: '192x192',
+        href: '/deepo-vector1.svg',
+      },
+      {
+        rel: 'manifest',
+        href: '/manifest.json',
+      },
     ],
   }),
 
